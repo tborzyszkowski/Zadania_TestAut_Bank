@@ -2,7 +2,7 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-|  22.10.2021    |  10        |
+|  24.10.2022    |  10        |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -23,4 +23,5 @@ Zaprojektuj zestaw klas, które będą modelowały zachowanie historii konta ban
 dzięki której będzie można wybrać logi historii z dowolnego przedziału czasowego.
 
 ### Uwaga
-Przed napisaniem każdej klasy stwórz dla niej odpowiednie testy jednostkowe, które klasa powinna spełniać.
+Przed napisaniem każdej klasy stwórz dla niej odpowiednie testy jednostkowe, które klasa powinna spełniać. Zastosuj TDD.
+Respektuj reguły SOLID.
