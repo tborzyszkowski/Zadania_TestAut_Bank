@@ -23,5 +23,5 @@ Zaprojektuj zestaw klas, które będą modelowały zachowanie historii konta ban
 dzięki której będzie można wybrać logi historii z dowolnego przedziału czasowego.
 
 ### Uwaga
-Przed napisaniem każdej klasy stwórz dla niej odpowiednie testy jednostkowe, które klasa powinna spełniać. Zastosuj TDD.
-Respektuj reguły SOLID.
+Przed napisaniem każdej klasy stwórz dla niej odpowiednie testy jednostkowe, które klasa powinna spełniać.
+Respektuj reguły Clean Code oraz SOLID.
